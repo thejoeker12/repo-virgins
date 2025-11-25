@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/thejoeker12/repo-virgins/compare/v1.0.0...v1.1.0) (2025-11-25)
+
+
+### Features
+
+* MWPT-1245 A short description ([#11](https://github.com/thejoeker12/repo-virgins/issues/11)) ([4ba715e](https://github.com/thejoeker12/repo-virgins/commit/4ba715e96fcf7331869b66e6eb2e2beac31a4100))
+
 ## [1.0.0](https://github.com/thejoeker12/repo-virgins/compare/v0.0.2...v1.0.0) (2025-11-25)
 
 
