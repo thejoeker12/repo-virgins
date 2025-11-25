@@ -2,4 +2,4 @@ import time
 
 while True:
     print("cheese")
-    time.sleep(1)
+    time.sleep(0.5)
