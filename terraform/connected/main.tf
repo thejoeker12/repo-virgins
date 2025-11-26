@@ -8,7 +8,3 @@ resource "jamfpro_category" "category_two" {
   priority = 5
 }
 
-
-// more diff
-
-// more diff
