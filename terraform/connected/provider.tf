@@ -29,6 +29,7 @@ variable "jamfpro_auth_method" {
   description = "Auth method chosen for Jamf. Options are 'basic' or 'oauth2'."
   sensitive   = true
   type        = string
+  default = "oauth2"
 }
 
 variable "jamfpro_client_id" {
