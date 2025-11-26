@@ -7,3 +7,6 @@ resource "jamfpro_category" "category_two" {
   name     = "cheese"
   priority = 5
 }
+
+
+// more diff
