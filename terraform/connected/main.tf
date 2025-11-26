@@ -1,10 +1,10 @@
 resource "jamfpro_category" "category_one" {
-  name     = "ferrari"
+  name     = "bionic legs"
   priority = 5
 }
 
 resource "jamfpro_category" "category_two" {
-  name     = "bmw"
+  name     = "pints"
   priority = 5
 }
 
