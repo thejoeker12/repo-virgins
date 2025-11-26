@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0](https://github.com/thejoeker12/repo-virgins/compare/v1.1.0...v1.2.0) (2025-11-26)
+
+
+### Features
+
+* Added base code ([#13](https://github.com/thejoeker12/repo-virgins/issues/13)) ([6316431](https://github.com/thejoeker12/repo-virgins/commit/6316431e51a9311942474b7c4b5153a1d6454f18))
+* added cake ([da83bde](https://github.com/thejoeker12/repo-virgins/commit/da83bde34db61dc76b9c6c6fd5317b0427367ffa))
+* changed to sausage ([f4bc1b4](https://github.com/thejoeker12/repo-virgins/commit/f4bc1b4422d90aea8262ecb19276d281af49dad6))
+* MWPT-2312 added a category, run fmt ([6e93a6b](https://github.com/thejoeker12/repo-virgins/commit/6e93a6bd564402f700400968e305ff496f52a0d9))
+
+
+### Bug Fixes
+
+* changed again ([#16](https://github.com/thejoeker12/repo-virgins/issues/16)) ([4bd44ad](https://github.com/thejoeker12/repo-virgins/commit/4bd44ad8359306b705b146af3e5bd84d78694aa8))
+* changed category name ([#17](https://github.com/thejoeker12/repo-virgins/issues/17)) ([2fb96ed](https://github.com/thejoeker12/repo-virgins/commit/2fb96edf25a15aec17544e93ae7170ccc9cfbe7e))
+
 ## [1.1.0](https://github.com/thejoeker12/repo-virgins/compare/v1.0.0...v1.1.0) (2025-11-25)
 
 
