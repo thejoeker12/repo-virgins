@@ -4,6 +4,6 @@ resource "jamfpro_category" "category_one" {
 }
 
 resource "jamfpro_category" "category_two" {
-  name     = "sausage_cake"
+  name     = "cheese"
   priority = 5
 }
